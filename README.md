@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me
-- linked in- kaif-khan1234
+- linked in- www.linkedin.com/in/
+kaif-khan1234
 
